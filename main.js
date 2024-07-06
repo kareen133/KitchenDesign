@@ -32,12 +32,14 @@ iconClose.addEventListener('click', ()=>{
 
 
 btnPopup.addEventListener('click', ()=>{
+    const wrapper =document.querySelector('.wrapper');
     const toggleMenu =document.querySelector(".toggleMenu");
     const Navigation =document.querySelector(".Navigation");
    const screenWidth = window.innerWidth;
    if(screenWidth <= 900 ){
     toggleMenu.classList.toggle("active");
   Navigation.classList.toggle("active");
+       wrapper.style.backgroundColor ='white'
    }
 });
 
