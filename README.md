@@ -25,7 +25,7 @@ To view or edit this project locally:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/kitchen-design-landing-page.git
+   git clone https://github.com/kareen133/KitchenDesign.git
    ```
 2. Navigate to the project directory:
    ```bash
