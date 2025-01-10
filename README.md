@@ -29,7 +29,7 @@ To view or edit this project locally:
    ```
 2. Navigate to the project directory:
    ```bash
-   cd kitchen-design-landing-page
+   cd KitchenDesign
    ```
 3. Open `index.html` in your preferred browser to view the project.
 
